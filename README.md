@@ -1,6 +1,7 @@
 # Finding Home Clone // Whatsapp UI in Unity with Fungus integration
 
 ![A screenshot of the chat app](https://i.imgur.com/QKPApXG.png)
+
 This is a simple Whatsapp UI made in Unity inspired from the [UNHCR Finding Home game](https://play.google.com/store/apps/details?id=org.unhcr.findinghome&hl=en_IE). It uses Fungus to manage the flow of messages and the player's choices. It can be used to build your own Choose Your Own Adventure game.
 ## Structure
 The Home screen makes it possible to choose the language and to open the gallery and the chat app. From the chat app, the player goes to the chats list and then enters a specific chat. In this simple example the chat with Ishak is the only chat that's available. Once inside the actual conversation the messages will appear one after another with a pause of 2 seconds between them (the pause can be skipped with a click on the screen). As an example, there is a small conversation made with a Fungus flowchart already loaded. When the player needs to make a choice, the select button is activated and the player can make his choice. The player avatar can be clicked to go to the achievements screen. Each character avatar can be also clicked to go to its current affinity status (i.e. relationship status with the player which can be modified throughout the conversation).
