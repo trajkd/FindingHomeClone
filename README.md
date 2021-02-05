@@ -42,10 +42,16 @@ Now make a flowchart in Fungus to add your messages and player's choices. Follow
 
 ## Credits
 Heart, music, gallery and browser icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
 User icon made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
 Chat icon made by <a href="https://www.flaticon.com/authors/smartline" title="Smartline">Smartline</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
 Post-it icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
 Telephone icon made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
 Whatsapp background taken from [SetAsWall](https://www.setaswall.com/whatsapp-wallpapers/whatsapp-wallpaper-112/).
 The picture in the Home screen is a generic picture of Klue from Ingress.
+
 The achievement badge was taken from [this repository](https://github.com/cr0ybot/ingress-logos).
